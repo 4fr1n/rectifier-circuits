@@ -1,0 +1,8 @@
+{
+  "name": "Rectifier Circuits Virtual Laboratory",
+  "description": "Interactive Virtual Lab for Rectifier Circuits (Half-Wave, Full-Wave Center-Tapped, and Bridge Rectifiers) with dual-channel oscilloscope, live circuit animation, mathematical theory, quizzes, and observation analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
